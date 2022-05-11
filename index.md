@@ -58,14 +58,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <p align="center">
 <img src="/Images/SS _of_Intro_page.jpg" alt="hi" align="center" class="inline"/> 
 </p>
+![Sample1](/Images/SS _of_Intro_page.jpg)
 
 <p align="center">
 <img src="/Images/SS_of_Pyvidya2.jpg" alt="hi" class="inline"/> 
 </p>
+![Sample2](/Images/SS_of_Pyvidya2.jpg)
 
 <p align="center"> 
 <img src="/Images/SS_of_PyVidya3.jpg" alt="hi" class="inline"/> 
 </p>
+![Sample3](/Images/SS_of_PyVidya3.jpg)
 
 
 ### Simple steps to interact with bot :
