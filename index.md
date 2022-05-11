@@ -48,10 +48,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. --->
 
 ### Features of PyVidya
-| Feature | Importance |
+<!--- | Feature | Importance |
 | :----------: | :----------: |
 | User queries | Solve basic Python related  questions |
-| Know my performance | To know where they stand in the class |
+| Know my performance | To know where they stand in the class | --->
+
+![SS_features](https://user-images.githubusercontent.com/79235889/167833805-358f2314-be13-45a6-a29f-cb0d924ae6b8.jpg)
 
 
 ### Sample Conversations
@@ -60,7 +62,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 </p> --->
 
 <!--- ![Sample1](/Images/SS _of_Intro_page.jpg) --->
-![Sample1](/Images/SS _of_Intro_page.jpg)
+<!--- ![Sample1](/Images/SS _of_Intro_page.jpg) --->
+![SS  of Intro page](https://user-images.githubusercontent.com/79235889/167834008-3394bc9d-ab3b-4674-abd6-7c80563d538c.jpg)
 
 <!--- <p align="center">
 <img src="/Images/SS_of_Pyvidya2.jpg" alt="hi" class="inline"/> 
