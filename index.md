@@ -13,7 +13,8 @@ assistant which will be available to them 24x7.
 
 ### Architecture of PyVidya
 
-<img src="Images/PyVidya Architecture.jpg" alt="hi" class="inline"/>
+ <img src="/Images/PyVidya Architecture.jpg" alt="hi" class="inline"/> 
+![Architecture of PyVidya](/Images/PyVidya Architecture.jpg)
 
 <!--- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
