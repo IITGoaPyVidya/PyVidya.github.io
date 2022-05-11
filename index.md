@@ -13,7 +13,7 @@ assistant which will be available to them 24x7.
 
 ### Architecture of PyVidya
 
- <img src="/Images/PyVidya_Architecture.jpg" alt="hi" class="inline"/> 
+<!--- <img src="/Images/PyVidya_Architecture.jpg" alt="hi" class="inline"/> --->
 ![Architecture of PyVidya](/Images/PyVidya_Architecture.jpg)
 
 <!--- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -55,19 +55,21 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ### Sample Conversations
-<p align="center">
+<!--- <p align="center">
 <img src="/Images/SS _of_Intro_page.jpg" alt="hi" align="center" class="inline"/> 
-</p>
+</p> --->
+
+<!--- ![Sample1](/Images/SS _of_Intro_page.jpg) --->
 ![Sample1](/Images/SS _of_Intro_page.jpg)
 
-<p align="center">
+<!--- <p align="center">
 <img src="/Images/SS_of_Pyvidya2.jpg" alt="hi" class="inline"/> 
-</p>
+</p> --->
 ![Sample2](/Images/SS_of_Pyvidya2.jpg)
 
-<p align="center"> 
+<!--- <p align="center"> 
 <img src="/Images/SS_of_PyVidya3.jpg" alt="hi" class="inline"/> 
-</p>
+</p> --->
 ![Sample3](/Images/SS_of_PyVidya3.jpg)
 
 
